@@ -4,11 +4,12 @@ This project is a deep learning-based waste classification system that uses tran
 
 ## 🧠 Key Features
 
-- ✅ Transfer learning with pre-trained VGG16
-- 📂 Classifies waste into 3 categories
 - 📸 Image preprocessing and augmentation
 - 📊 Model evaluation on test dataset
+- 📂 Classifies waste into 3 categories
 - 💾 Trained model saved as `waste_classifier_vgg16.h5`
+- ✅ Transfer learning with pre-trained VGG16
+
 
 ## 📁 Dataset Structure
 
