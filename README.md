@@ -27,29 +27,3 @@ output_dataset/
 ├── Biodegradable Images/
 ├── Recyclable Images/
 └── Trash Images/
-
-
-
-## 🛠️ Requirements
-
-- Python 3.x
-- TensorFlow
-- NumPy
-- IPython (for displaying images)
-
-Install dependencies:
-
-```bash
-pip install tensorflow numpy ipython
-
-## 🛠️ Requirements
-
-- Python 3.x
-- TensorFlow
-- NumPy
-- IPython (for displaying images)
-
-Install dependencies:
-
-```bash
-pip install tensorflow numpy ipython
